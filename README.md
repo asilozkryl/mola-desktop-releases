@@ -6,13 +6,13 @@ Mola'nın Windows, macOS ve Linux kurulum paketleri ve güncellemeleri bu depoda
 
 ## Kurulum
 
-| Bilgisayar | Paket |
-| --- | --- |
-| Windows x64 | `win-x64.exe` |
-| Apple Silicon Mac (M serisi), macOS 13+ | `mac-arm64.dmg` |
-| Intel Mac, macOS 13+ | `mac-x64.dmg` |
-| Ubuntu / Debian x64 | `linux-amd64.deb` |
-| Diğer uyumlu Linux x64 dağıtımları | `linux-x86_64.AppImage` |
+| Bilgisayar                              | Paket                   |
+| --------------------------------------- | ----------------------- |
+| Windows x64                             | `win-x64.exe`           |
+| Apple Silicon Mac (M serisi), macOS 13+ | `mac-arm64.dmg`         |
+| Intel Mac, macOS 13+                    | `mac-x64.dmg`           |
+| Ubuntu / Debian x64                     | `linux-amd64.deb`       |
+| Diğer uyumlu Linux x64 dağıtımları      | `linux-x86_64.AppImage` |
 
 Mac'te DMG içindeki Mola'yı Uygulamalar klasörüne taşıyın. Linux AppImage için çalıştırma izni ve FUSE 2 desteği gerekir. Windows ve DEB paketlerinde işletim sisteminin kurulum adımlarını tamamlayın.
 
